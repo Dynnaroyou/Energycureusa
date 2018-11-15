@@ -1,0 +1,51 @@
+/* Copyright wrapper */
+.copyright-wrapper{
+	border-width:2px;
+	border-top-style:solid;
+	border-top-width:15px;
+	border-top-color:#fffa7a;
+}
+
+/* Post Title */
+.hentry .entry-header h1{
+	background-color:rgba(68,68,68,0.01);
+	color:#d44242;
+	border-left-style: solid;
+	border-left-width: 10px;
+	border-left-color:#fffa7a;
+}
+
+/* Menu Item */
+#menu-our-websites .menu-item{
+	background-blend-mode:multiply;
+	background-position-x:2%;
+	background-position-y:2%;
+	display: block;
+	background-color: white;
+	font-weight: Bold;
+	border-left-style: solid;
+	border-left-width: 5px;
+	border-left-color:#fffa7a;
+}
+
+/* Link */
+#menu-donations > .menu-item > a{
+	color: #fffa7a;
+}
+
+/* Link */
+#header h1 a{
+	color: #d44242;
+}
+
+/* Header top */
+.header-top{
+	border-bottom-style:solid;
+	border-bottom-width:5px;
+	border-bottom-color:#fffa7a;
+}
+
+/* Main container */
+.main-container{
+
+}
